@@ -1,4 +1,4 @@
-# MISTswap SDK
+# FogOfWar SDK
 
 In-depth documentation on this SDK is available at [uniswap.org](https://uniswap.org/docs/v2/SDK/getting-started/).
 
@@ -11,13 +11,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/mistswapdex/mistswap-sdk.git
+git clone https://github.com/SayoshiNakamario/fogofwar-sdk.git
 ```
 
 Move into the mistswap-sdk working directory
 
 ```sh
-cd mistswap-sdk/
+cd fogofwar-sdk/
 ```
 
 Install dependencies
