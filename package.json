@@ -1,5 +1,5 @@
 {
-  "name": "@mistswapdex/sdk",
+  "name": "@fogofwar/sdk",
   "license": "MIT",
   "version": "0.0.12",
   "description": "🛠 An SDK for building applications on top of MISTswap.",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/mistswapdex/mistswap-sdk",
+  "repository": "https://github.com/SayoshiNakamario/fogofwar-sdk",
   "keywords": [
     "mistswap",
     "bitcoin-cash",
@@ -61,7 +61,7 @@
     "@ethersproject/signing-key": "^5.4.0",
     "@ethersproject/solidity": "^5.4.0",
     "@ethersproject/transactions": "^5.4.0",
-    "@mistswapdex/core": "^0.0.3",
+    "@fogofwar/core": "^0.0.3",
     "@sushiswap/prettier-config": "^0.1.0",
     "@types/big.js": "^6.1.0",
     "babel-plugin-transform-jsbi-to-bigint": "^1.4.0",

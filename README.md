@@ -14,7 +14,7 @@ First clone the repository:
 git clone https://github.com/SayoshiNakamario/fogofwar-sdk.git
 ```
 
-Move into the mistswap-sdk working directory
+Move into the fogofwar-sdk working directory
 
 ```sh
 cd fogofwar-sdk/
